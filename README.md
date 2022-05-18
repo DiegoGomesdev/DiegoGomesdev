@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Games
 
-
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=DiegoGomesdev&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoGomesdev&show_icons=true&theme=radical)]
 
 
 [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://twitter.com/USERNAME) 
