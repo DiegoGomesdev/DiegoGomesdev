@@ -2,7 +2,7 @@
 
 - 🔭I am recent system Analist graduate looking for opportunities and collabaration in projects related to C# Development.
 - 🔭 I’m currently working on ( still looking )
-- 🌱 I’m currently learning Active Directory
+- 🌱 I’m currently learning .Net
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Games
